@@ -1,4 +1,8 @@
 _repo: In-the-Days-of-Queen-Elizabeth_47006
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47006-h/images/cover.jpg
 creator:
   author:
     agent_name: Tappan, Eva March
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5176
     wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47006#In-the-Days-of-Queen-Elizabeth
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
 identifiers:
